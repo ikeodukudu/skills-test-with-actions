@@ -13,7 +13,7 @@ Teach all things *Git*, give away all the stickers, ensure world peace.
 
 ### Supportocat
 
-Provide world class support to customers on the GitHub platform
+Provide __world class support__ to customers on the GitHub platform
 
 ## Skills
 
@@ -23,4 +23,4 @@ Developed and maintained various conference talks, online training, and in-perso
 
 ### Leadership
 
-Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+Managed multiple __asynchronous teams__ in the development, maintenance, and release of various web applications and websites.
